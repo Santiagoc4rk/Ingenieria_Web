@@ -1,0 +1,17 @@
+body{
+	background: blue;
+}
+header{
+	background: black;
+	color: #ffffff;
+}
+/* llamada de estilos a las clases */
+.cabeceraPrincipal{
+	font-size: 30px;
+	color:#fff;
+	front-family: arial;
+}
+/* llamada de estilosa ID */
+#principal{
+	background red;
+}
